@@ -1,0 +1,14 @@
+{
+    "username": "aseavers",
+    "goals": [{
+            "goal": "Successfully balance work between school and my internship",
+            "confidence": 8
+        }, {
+            "goal": "Try to go to the gym more than once a week",
+            "confidence": 8
+        }, {
+            "goal": "Try to achieve an A in both of Wright's classes",
+            "confidence": 6
+        }
+    ]
+}
